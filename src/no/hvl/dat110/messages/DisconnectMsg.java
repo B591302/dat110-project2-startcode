@@ -1,4 +1,4 @@
-package no.hvl.dat110.messages;
+	package no.hvl.dat110.messages;
 
 public class DisconnectMsg extends Message {
 	
